@@ -1,0 +1,16 @@
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\bin\Debug\net9.0-windows\Lab.exe
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\bin\Debug\net9.0-windows\Lab.deps.json
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\bin\Debug\net9.0-windows\Lab.runtimeconfig.json
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\bin\Debug\net9.0-windows\Lab.dll
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\bin\Debug\net9.0-windows\Lab.pdb
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\Lab.Form1.resources
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\Lab.csproj.GenerateResource.cache
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\Lab.AssemblyInfoInputs.cache
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\Lab.AssemblyInfo.cs
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\Lab.csproj.CoreCompileInputs.cache
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\Lab.dll
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\refint\Lab.dll
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\Lab.pdb
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\Lab.genruntimeconfig.cache
+D:\university\4 курс\Системне програмування\lab4\Lab\Lab\obj\Debug\net9.0-windows\ref\Lab.dll
